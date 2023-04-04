@@ -10,4 +10,5 @@ Gracias
 
 
 Activar Replit
-https://replit.com/~
+
+https://replit.com/@YonaGamerp/OtakuBotXD#main.py
